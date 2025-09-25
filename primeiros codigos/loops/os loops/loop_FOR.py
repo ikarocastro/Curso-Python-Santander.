@@ -10,7 +10,6 @@ frutas = ["maçã", "banana", "cereja"]
 
 for fruta in frutas:
     print(fruta)
-#Saída:
-#maçã
-#banana
-#cereja
+
+"""Neste exemplo, o loop for itera sobre a lista frutas. Em cada iteração, a variável fruta assume o valor de um elemento da lista, e o bloco de código dentro do loop é executado. Neste caso, cada fruta é impressa em uma linha separada."""
+
